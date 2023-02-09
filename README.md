@@ -1,1 +1,1 @@
-# mathematic_course
+Курс по математике
